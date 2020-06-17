@@ -1,0 +1,20 @@
+.savedHeader {
+    background: url("./bookstacks.jpg") no-repeat;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+      background-position: right;
+    height: 100vh;
+    color: #5e4009;
+    text-shadow: 1px 1px black;
+    padding-top: 25vh;
+}
+.savedHeader h1{
+    font-size: 72px;
+    font-family: 'Comic Sans MS';
+}
+.savedHeader h2 {
+    font-size: 50px;
+    font-family: 'Comic Sans MS';
+}
