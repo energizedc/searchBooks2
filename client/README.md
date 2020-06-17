@@ -23,7 +23,7 @@ To run this application locally, use http://localhost:3000 after completing the 
 
 ```js
 git clone https://github.com/energizedc/searchBooks2.git
-cd google-books-app
+cd searchBooks2
 npm install
 npm start
 ```
